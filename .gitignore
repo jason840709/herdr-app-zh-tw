@@ -1,0 +1,11 @@
+# Per-user state created only after installation
+/backups/
+/work/
+/安裝紀錄.json
+*.new
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+*.zip
+*.zip.sha256
